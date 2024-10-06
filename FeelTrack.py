@@ -204,3 +204,4 @@ if dates:
             st.plotly_chart(pie_chart)
 else:
     st.write("No entries found.")
+st.markdown("Created by **Dario Galvagno**")
